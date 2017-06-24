@@ -4,7 +4,7 @@ This repo contains images of which can be used to make a deck of playing cards f
 
 There are 108 images to make a 107 card deck, 3 of these card feature a breif history of cognative biases, attribution of the content and a description of what a cognative bias is. 
 
-There are 2 files of each card a .png image and a .xcf file which can be opened and edited with the open source [GIMP](www.gimp.org) image editor.
+There are 2 files of each card a .png image and a .xcf file which can be opened and edited with the open source [GIMP](https://www.gimp.org/) image editor.
 
 The original source for the visuals in these cards was Eric Fernandez of the royal society of account planning blog http://royalsocietyofaccountplanning.blogspot.co.uk/2010/04/new-study-guide-to-help-you-memorize.html
 
