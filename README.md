@@ -1,8 +1,8 @@
-# Cognative Bias Cards
+# Cognitive Bias Cards
 
-This repo contains images of which can be used to make a deck of playing cards featuring all of the congative biases listed on wikipedia at the time they were made.
+This repo contains images of which can be used to make a deck of playing cards featuring all of the congitive biases listed on wikipedia at the time they were made.
 
-There are 108 images to make a 107 card deck, 3 of these card feature a breif history of cognative biases, attribution of the content and a description of what a cognative bias is. 
+There are 108 images to make a 107 card deck, 3 of these card feature a breif history of cognitive biases, attribution of the content and a description of what a cognitive bias is. 
 
 There are 2 files of each card a .png image and a .xcf file which can be opened and edited with the open source [GIMP](https://www.gimp.org/) image editor.
 
@@ -27,7 +27,7 @@ The notion of cognitive biases was introduced by Amos Tversky and Daniel Kahnema
 Quoted from: http://en.wikipedia.org/wiki/Cognitive_bias
 
 
-__From the What is a Cognative Bias Card:__
+__From the What is a Cognitive Bias Card:__
 
 Cognitive biases are psychological tendencies that cause the human brain to draw incorrect conclusions. Such biases are thought to be a form of "cognitive shortcut", often based upon rules of thumb, and include errors in statistical judgment, social attribution, and memory. These biases are a common outcome of human thought, and often drastically skew the reliability of anecdotal and legal evidence. The phenomenon is studied in cognitive science and social psychology. 
 
