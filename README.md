@@ -32,9 +32,3 @@ __From the What is a Cognative Bias Card:__
 Cognitive biases are psychological tendencies that cause the human brain to draw incorrect conclusions. Such biases are thought to be a form of "cognitive shortcut", often based upon rules of thumb, and include errors in statistical judgment, social attribution, and memory. These biases are a common outcome of human thought, and often drastically skew the reliability of anecdotal and legal evidence. The phenomenon is studied in cognitive science and social psychology. 
 
 Quoted from: http://en.wikipedia.org/wiki/Cognitive_bias
-
-
-Cognitive biases are psychological tendencies that cause the human brain to draw incorrect conclusions. Such biases are thought to be a form of "cognitive shortcut", often based upon rules of thumb, and include errors in statistical judgment, social attribution, and memory. These biases are a common outcome of human thought, and often drastically skew the reliability of anecdotal and legal evidence. The phenomenon is studied in cognitive science and social psychology. 
-
-Quoted from: http://en.wikipedia.org/wiki/Cognitive_bias
-
