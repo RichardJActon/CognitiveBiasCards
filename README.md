@@ -32,3 +32,26 @@ __From the What is a Cognitive Bias Card:__
 Cognitive biases are psychological tendencies that cause the human brain to draw incorrect conclusions. Such biases are thought to be a form of "cognitive shortcut", often based upon rules of thumb, and include errors in statistical judgment, social attribution, and memory. These biases are a common outcome of human thought, and often drastically skew the reliability of anecdotal and legal evidence. The phenomenon is studied in cognitive science and social psychology. 
 
 Quoted from: http://en.wikipedia.org/wiki/Cognitive_bias
+
+---
+
+## Can I buy a set without the hastle of organising the printing?
+
+__Yes__
+
+For convenience I have a setup the deck for purchase in an off-the-shelf format at: http://www.makeplayingcards.com/sell/marketplace/cognitive-bias-cards.html
+
+The minimum markup for selling through this service is 10% minus a 5% handling fee on that 10%, Should anyone actually buy these I shall donate the proceeds to the wikimedia foundation as it is from thence I got the content.
+
+I choose a durable linen poker sized card which costs $45.65 (US) per deck for 1-5 decks and progressively less for larger orders (at time of writing).
+Cheaper materials are available from this printer, but I thought groups might buy these and want them to last. You can upload the images from this Repo to make your own on cheaper materials if you wish, *not that if you do this the 000_Card Back.png needs rotating 180 degrees for the front and back of the cards to be the same way up.*
+
+## Are there any games I can play with these cards?
+
+__Yes__
+
+I recomend __Biased Pandemic__ as described here: http://lesswrong.com/lw/ar2/biased_pandemic/ on the less wrong blog.
+
+I is like the regular excellent collaborative board game [pandemic](https://en.wikipedia.org/wiki/Pandemic_(board_game)) except you act act out a bias drawn from the deck and the other players have to guess what bias you have.
+
+
