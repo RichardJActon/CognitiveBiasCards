@@ -1,5 +1,7 @@
 # Cognitive Bias Cards
 
+![](./Cognitive_Bias_Cards_Photo.JPG)
+
 This repo contains images of which can be used to make a deck of playing cards featuring all of the congitive biases listed on wikipedia at the time they were made.
 
 There are 108 images to make a 107 card deck, 3 of these card feature a breif history of cognitive biases, attribution of the content and a description of what a cognitive bias is. 
