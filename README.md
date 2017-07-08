@@ -52,6 +52,6 @@ __Yes__
 
 I recomend __Biased Pandemic__ as described here: http://lesswrong.com/lw/ar2/biased_pandemic/ on the less wrong blog.
 
-I is like the regular excellent collaborative board game [pandemic](https://en.wikipedia.org/wiki/Pandemic_(board_game)) except you act act out a bias drawn from the deck and the other players have to guess what bias you have.
+	It is like the regular version of the excellent collaborative board game [pandemic](https://en.wikipedia.org/wiki/Pandemic_(board_game)); except you act act out a bias drawn from the deck and the other players have to guess what bias you have, after your bias has been successfully guessed you draw another bias.
 
 
